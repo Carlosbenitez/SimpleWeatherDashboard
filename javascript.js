@@ -39,6 +39,7 @@ function searchCity(cityname) {
             currentIcon.attr("style", "height: 60px; width: 60px");
         }
 
+        //to make a div
         var makeDiv = $('<div>');
         makeDiv.append(displayDate, currentIcon, tempP, humP, windP);
         $("#current").html(makeDiv);

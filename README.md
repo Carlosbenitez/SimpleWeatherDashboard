@@ -1,3 +1,9 @@
+![](screenshot/photo.jpg)
+
+This is a weatherdashboard that gives a five day forecast when you search for a city and also locally stores the last city you searched. It uses the OpenWeather API to load real forecasts onto the page. Information provided includes the date, temperature, humidity, wind speed, and UV index.
+
+I had a lot of help on the Javascript from my group. The CSS and HTML were done on my own.
+
 API key used: 14e860d386b3eeb719b636566d47d1aa
 
 
